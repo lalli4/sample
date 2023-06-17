@@ -3,11 +3,9 @@ body{
 }
 h1{
     text-align: center;
-    color: blueviolet;
+    color: green;
 }
 div{
-    color: rgb(130, 0, 0);
-    font-size: large;
-    
-   
+    color: black;
+    font-size: large;   
 }
